@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+build/
+dist/
+Lib/
+Scripts/
+*.mp4
+main.spec
+pyvenv.cfg
